@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: twoThePowerOf
+  title: Two The Power Of
+  author: Infusion
+  description: 'Lights, camera!
+
+
+    Use the colors of lights to move through a diagram and determine their power levels.
+
+
+    This is one of my more lengthy modules, but it has some interesting concepts,
+    such as a diagram and a potential rotation of the module, which I haven''t used
+    in any of my modules before.
+
+
+    Manual can be found at ktane.timwi.de or in the bundled manuals folder.
+
+    Source code is at https://github.com/Infusion478/KTANE-Two-The-Power-Of
+
+
+    Comes with Twitch Plays, colorblind, AND rule seed support!'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 31f464521ea0ba748a7e865fbe8ea364, type: 3}

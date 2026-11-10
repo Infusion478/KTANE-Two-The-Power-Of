@@ -1,0 +1,10 @@
+{
+  "name": "twoThePowerOf-Editor",
+  "references": [
+    "twoThePowerOf"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
